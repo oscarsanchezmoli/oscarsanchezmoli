@@ -15,10 +15,26 @@
 
 Passionate about technology and its impact in the real world. As a developer, my focus is on creating innovative solutions that optimize processes and solve problems, with the ultimate goal of improving the user experience. I am constantly seeking to learn and innovate to add value to every project.
 
+<div>
+  <a href="https://github.com/oscarsanchezmoli?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/oscarsanchezmoli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <a href="https://github.com/osukarusof?tab=repositories">
+    <img alt="total repositories" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/osukarusof?color=55960c&style=for-the-badge&labelColor=488207&logo=repo"/>
+  </a>
+</div>
+
 <br/>
 <br/>
 <br/>
 <br/>
+
+<h2>
+  <img src="https://media.giphy.com/media/8FPyRmDc89d8dsBbjm/giphy.gif" width ="27"><b> Socials</b>
+</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscaredusan)
+
 
 <h2>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><b> Tech Stack</b>
